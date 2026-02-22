@@ -16,7 +16,7 @@
 
 # print(lista)
 
-produto_0001 = {
+produto_0001: dict = {
 
     "nome": "Sapato",
     "quantidade": 39,
@@ -24,7 +24,7 @@ produto_0001 = {
     "disponibilidade": True
 },
 
-produto_0002 = {
+produto_0002: dict = {
     "Nome": "Televisão",
     "quantidade": 10,
     "preco": 70.38,
